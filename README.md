@@ -1,32 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Mi presentación</title>
-	<style>
-		body {
-			font-family: Arial, sans-serif;
-			background-color: #f4f4f4;
-		}
-		h1 {
-			color: #333;
-			text-align: center;
-			margin-top: 50px;
-		}
-		p {
-			color: #666;
-			font-size: 18px;
-			line-height: 1.5;
-			margin: 20px auto;
-			max-width: 600px;
-			text-align: center;
-		}
-	</style>
-</head>
-<body>
-	<h1>Mi presentación</h1>
-	<p>Bienvenido a mi presentación en GitHub Pages.</p>
-</body>
-</html>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<!--h1 without bottom border-->
+
+<div id="user-content-toc">
+  <ul align="left">
+    <summary><h1 style="display: inline-block">Hi there👋, I'm Elio Chiu</h1></summary>
+  </ul>
+</div>
 
 
 
