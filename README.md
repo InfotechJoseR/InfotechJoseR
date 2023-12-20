@@ -5,7 +5,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><center><h1 style="display: inline-block">Bienvenido a mi repositorio 👨‍💻📊</h1></center></summary>
+    <h1 align="center"> style="display: inline-block">Bienvenido a mi repositorio 👨‍💻📊</h1>
   </ul>
 </div>
 
