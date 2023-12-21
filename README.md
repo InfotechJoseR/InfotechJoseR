@@ -25,7 +25,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height="80" width="70" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://img.freepik.com/vector-premium/ilustracion-icono-redes-sociales-facebook-icono-facebook-ilustracion-vectorial_561158-2134.jpg?size=338&ext=jpg&ga=GA1.1.1687694167.1703030400&semt=ais" alt="https://c0.klipartz.com/pngpicture/286/520/gratis-png-facebook-thumbnail.png" height="80" width="70" /></a>
+  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/585/255/png-transparent-facebook-logo-facebook-messenger-logo-icon-facebook-icon-blue-text-rectangle.png" alt="https://c0.klipartz.com/pngpicture/286/520/gratis-png-facebook-thumbnail.png" height="80" width="70" /></a>
   <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
 
