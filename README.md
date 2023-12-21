@@ -26,8 +26,10 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="jose" height="80" width="70" /></a>
   <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose" height="45" width="50" /></a>
-  <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jose" height="45" width="50" /></a>
-  <a href="https://www.tiktok.com/@jose.r301" target="blank"><img align="center" src="https://iconape.com/tiktok-logo-logo-icon-svg-png.html" alt="jose" height="45" width="50" /></a>
+  <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" <svg width="24" height="24" viewBox="0 0 24 24">
+  <path fill="#000000" d="M12,0C5.373,0,0,5.373,0,12c0,6.626,5.373,12,12,12s12-5.374,12-12C24,5.373,18.627,0,12,0z M17.826,7.674c0.674,0,1.22,0.546,1.22,1.22v4.212c0,0.674-0.546,1.22-1.22,1.22h-1.674v3.786c0,0.674-0.546,1.22-1.22,1.22h-2.435c-0.674,0-1.22-0.546-1.22-1.22v-3.786H8.174c-0.674,0-1.22-0.546-1.22-1.22V8.894c0-0.674,0.546-1.22,1.22-1.22h9.652V7.674z"/>
+</svg>
+</a>
 </p>
 
 
