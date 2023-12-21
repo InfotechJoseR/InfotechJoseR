@@ -25,7 +25,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="https://static.vecteezy.com/system/resources/previews/018/930/587/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" height="80" width="70" /></a>
-  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose" height="60" width="50" /></a>
+  <a href="https://fb.com/josuerv729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose" height="60" width="40" /></a>
   <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="josue_rojasv" height="30" width="40" /></a>
 </p>
 
