@@ -14,6 +14,8 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
 
+<h4 align="center">Soy José, un apasionado profesional de la tecnología y la innovación con experiencia en el desarrollo de proyectos tecnológicos con impacto social y educativo. Mi enfoque actual se centra en fortalecer mis habilidades en análisis de datos. He liderado proyectos que incluyen la creación de aplicaciones móviles para facilitar la traducción de español a Tsafiki, un idioma nativo, de la Provincia de Santo Domingo de los Tsachilas, Ecuador. Además de contribuir al desarrollo de modelos de Machine Learning para predecir la deserción estudiantil de mi universidad. Mi compromiso con la excelencia se refleja en premios obtenidos en congresos de ciencias y tecnología. Siempre estoy en busca de desafíos que me permitan aplicar mis conocimientos técnicos para generar un impacto positivo en la sociedad.</h4>
+
 
 
 
