@@ -62,7 +62,7 @@
   &emsp; 
   <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="52" height="52"/> </a> 
   &emsp; 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="postgresql" width="52" height="60"/> </a> 
+  <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="postgresql" width="52" height="70"/> </a> 
   &emsp; 
 
 </p>
@@ -82,13 +82,13 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Angular-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CSS.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CSS.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/JavaScript.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/JavaScript.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
 
 </p>
@@ -118,7 +118,7 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/AndroidStudio-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/AndroidStudio-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
  
 </p>
@@ -127,19 +127,19 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Eclipse-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Eclipse-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Git.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Git.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Github-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Github-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Idea-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Idea-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Octave-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Octave-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Postman.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Postman.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/VSCode-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/VSCode-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
 
 </p>
@@ -148,7 +148,7 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Photoshop.svg" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Photoshop.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
 
 </p>
