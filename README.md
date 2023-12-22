@@ -31,6 +31,8 @@
   
 </p>
 
+<hr>
+
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
