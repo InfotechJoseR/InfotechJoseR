@@ -101,7 +101,7 @@
   &emsp;
   <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/TensorFlow-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo-thumbnail.png" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://camo.githubusercontent.com/161d0875a4808ac2031e966232c535e724d7d897784a7e13710eb1fd58074a25/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" alt="angular" width="50" height="50"/></a>
   &emsp;
   <a target="_blank"> <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
