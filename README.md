@@ -143,15 +143,13 @@
   &emsp;
   <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/VSCode-Dark.svg" alt="code" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://assets.stickpng.com/images/61045e1a9cd69c000418c11b.png" alt="word" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png" alt="colab" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://assets.stickpng.com/images/61045dfc9cd69c000418c11a.png" alt="excel" width="50" height="50"/></a>
-  &emsp;
-  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="power" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" width="50" height="50"/></a>
   &emsp;
   <a target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="60" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="tableau" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="r" width="50" height="50"/></a>
   &emsp;
   
 
