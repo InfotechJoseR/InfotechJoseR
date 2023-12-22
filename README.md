@@ -120,6 +120,8 @@
   &emsp; 
   <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/AndroidStudio-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
+  <a target="_blank"> <img src="https://community.appinventor.mit.edu/uploads/default/51de1aad4bfd4519201315eee03607910eb0772c" alt="angular" width="50" height="50"/></a>
+  &emsp;
  
 </p>
 
