@@ -24,10 +24,10 @@
 <hr>      
 <h3 align="center">Contact me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jose" height="30" width="40" /></a>
-  <a href="https://www.tiktok.com/@jose.r301" target="blank"><img align="center" src="https://i.pinimg.com/736x/73/f8/6c/73f86cb8c6f319a934b82458eaa27ba6.jpg" alt="jose" height="37" width="42" /></a>
+  <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose" height="40" width="50" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose" height="40" width="50" /></a>
+  <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jose" height="40" width="50" /></a>
+  <a href="https://www.tiktok.com/@jose.r301" target="blank"><img align="center" src="https://i.pinimg.com/736x/73/f8/6c/73f86cb8c6f319a934b82458eaa27ba6.jpg" alt="jose" height="40" width="50" /></a>
   
 </p>
 
