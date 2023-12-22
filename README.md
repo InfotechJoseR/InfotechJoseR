@@ -82,9 +82,9 @@
   &emsp; 
   <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Angular-Dark.svg" alt="angular" width="40" height="40"/></a>
   &emsp;
-  <a target="_blank"> <img src="" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="angular" width="40" height="40"/></a>
   &emsp;
-  <a target="_blank"> <img src="" alt="angular" width="40" height="40"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CSS.svg" alt="angular" width="40" height="40"/></a>
   &emsp;
   <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/JavaScript.svg" alt="angular" width="40" height="40"/></a>
   &emsp;
@@ -95,13 +95,13 @@
 
 <p align="left"> 
   &emsp; 
-  <a href="https://angular.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="angular" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/PyTorch-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/PyTorch-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/TensorFlow-Dark.svg" alt="angular" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/TensorFlow-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a href="https://angular.io" target="_blank"> <img src="https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo-thumbnail.png" alt="angular" width="40" height="40"/></a>
+  <a href="https://angular.io" target="_blank"> <img src="https://w7.pngwing.com/pngs/811/893/png-transparent-numpy-hd-logo-thumbnail.png" alt="angular" width="50" height="50"/></a>
   &emsp;
 
 </p>
