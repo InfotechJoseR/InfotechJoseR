@@ -129,20 +129,29 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Eclipse-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Eclipse-Dark.svg" alt="eclipse" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Git.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Git.svg" alt="git" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Github-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Github-Dark.svg" alt="github" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Idea-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Idea-Dark.svg" alt="idea" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Octave-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Octave-Dark.svg" alt="octave" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Postman.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Postman.svg" alt="post" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/VSCode-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/VSCode-Dark.svg" alt="code" width="50" height="50"/></a>
   &emsp;
+  <a target="_blank"> <img src="https://assets.stickpng.com/images/61045e1a9cd69c000418c11b.png" alt="word" width="50" height="50"/></a>
+  &emsp;
+  <a target="_blank"> <img src="https://assets.stickpng.com/images/61045dfc9cd69c000418c11a.png" alt="excel" width="50" height="50"/></a>
+  &emsp;
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="power" width="50" height="50"/></a>
+  &emsp;
+  <a target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="50" height="50"/></a>
+  &emsp;
+  
 
 </p>
 
@@ -150,7 +159,7 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Photoshop.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Photoshop.svg" alt="ps" width="50" height="50"/></a>
   &emsp;
 
 </p>
