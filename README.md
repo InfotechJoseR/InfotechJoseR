@@ -143,7 +143,7 @@
   &emsp;
   <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/VSCode-Dark.svg" alt="code" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png" alt="colab" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://lh3.googleusercontent.com/Bxp8IrKWEa-5KlyJp8jSXI5TAT7l0zA2XdEvdDtkEznVzhHLv01sSY82xu5nb1pfze121U6VHxwjc8HC31847_2GUzB-LJ1G3f4kcw" alt="colab" width="50" height="50"/></a>
   &emsp;
   <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" width="50" height="50"/></a>
   &emsp;
