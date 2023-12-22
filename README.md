@@ -149,7 +149,9 @@
   &emsp;
   <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Microsoft_PowerPoint_Logo.png" alt="power" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="60" height="50"/></a>
+  &emsp;
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="tableau" width="50" height="50"/></a>
   &emsp;
   
 
