@@ -84,11 +84,11 @@
   &emsp; 
   <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Angular-Dark.svg" alt="angular" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/HTML.svg" alt="html" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CSS.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CSS.svg" alt="css" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/JavaScript.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/JavaScript.svg" alt="javascript" width="50" height="50"/></a>
   &emsp;
 
 </p>
@@ -97,19 +97,19 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" alt="pandas" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/PyTorch-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/PyTorch-Dark.svg" alt="pytorch" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/TensorFlow-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/TensorFlow-Dark.svg" alt="tenso" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://camo.githubusercontent.com/161d0875a4808ac2031e966232c535e724d7d897784a7e13710eb1fd58074a25/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://camo.githubusercontent.com/161d0875a4808ac2031e966232c535e724d7d897784a7e13710eb1fd58074a25/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e756d70792f6e756d70792d6f726967696e616c2e737667" alt="ia" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2-no-text.svg" alt="stats" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="angular" width="70" height="50"/></a>
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png" alt="learn" width="70" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="mat" width="50" height="50"/></a>
   &emsp;
 
 </p>
@@ -118,9 +118,9 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/AndroidStudio-Dark.svg" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/AndroidStudio-Dark.svg" alt="android" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://community.appinventor.mit.edu/uploads/default/51de1aad4bfd4519201315eee03607910eb0772c" alt="angular" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://community.appinventor.mit.edu/uploads/default/51de1aad4bfd4519201315eee03607910eb0772c" alt="app" width="50" height="50"/></a>
   &emsp;
  
 </p>
@@ -143,11 +143,11 @@
   &emsp;
   <a target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/VSCode-Dark.svg" alt="code" width="50" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://lh3.googleusercontent.com/Bxp8IrKWEa-5KlyJp8jSXI5TAT7l0zA2XdEvdDtkEznVzhHLv01sSY82xu5nb1pfze121U6VHxwjc8HC31847_2GUzB-LJ1G3f4kcw" alt="colab" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://lh3.googleusercontent.com/Bxp8IrKWEa-5KlyJp8jSXI5TAT7l0zA2XdEvdDtkEznVzhHLv01sSY82xu5nb1pfze121U6VHxwjc8HC31847_2GUzB-LJ1G3f4kcw" alt="colab" width="60" height="60"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="jupyter" width="54" height="50"/></a>
   &emsp;
-  <a target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="60" height="50"/></a>
+  <a target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Emblem.png" alt="tableau" width="62" height="50"/></a>
   &emsp;
   <a target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rlogo.png" alt="r" width="50" height="50"/></a>
   &emsp;
