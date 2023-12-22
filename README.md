@@ -33,7 +33,7 @@
 
 <hr>
 
-## 🛠️ Mis conocimientos
+# 🛠️ Mis conocimientos
 
 ## 👉 Lenguajes de Programación
 
@@ -50,7 +50,7 @@
 
 </p>
 
-### 👉 Base de Datos
+## 👉 Base de Datos
 
 <p align="left"> 
   &emsp;
@@ -67,7 +67,7 @@
 
 </p>
 
-### 👉 Backend
+## 👉 Backend
 
 <p align="left"> 
   &emsp; 
@@ -78,7 +78,7 @@
 
 </p>
 
-### 👉 Frontend
+## 👉 Frontend
 
 <p align="left"> 
   &emsp; 
@@ -93,7 +93,7 @@
 
 </p>
 
-### 👉 Ciencia de Datos
+## 👉 Ciencia de Datos
 
 <p align="left"> 
   &emsp; 
@@ -114,7 +114,7 @@
 
 </p>
 
-### 👉 Movil
+## 👉 Movil
 
 <p align="left"> 
   &emsp; 
@@ -123,7 +123,7 @@
  
 </p>
 
-### 👉 Sistemas y Herramientas
+## 👉 Sistemas y Herramientas
 
 <p align="left"> 
   &emsp; 
@@ -144,7 +144,7 @@
 
 </p>
 
-### 👉 Diseño Gráfico
+## 👉 Diseño Gráfico
 
 <p align="left"> 
   &emsp; 
