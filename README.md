@@ -35,17 +35,17 @@
 
 ## 🛠️ Mis conocimientos
 
-### 👉 Lenguajes de Programación
+## 👉 Lenguajes de Programación
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.bloodshed.net/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="c++" width="40" height="40"/></a>
+  <a href="https://www.bloodshed.net/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="c++" width="50" height="50"/></a>
   &emsp;
-  <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="c" width="50" height="50"/></a>
   &emsp;
-  <a href="https://www.java.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.java.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="java" width="50" height="50"/></a>
   &emsp;
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="python" width="40" height="50"/></a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="python" width="50" height="50"/></a>
   &emsp;
 
 </p>
