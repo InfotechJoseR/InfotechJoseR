@@ -50,6 +50,96 @@
 
 </p>
 
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+
+</p>
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+
+</p>
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+
+</p>
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+
+</p>
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+
+</p>
+
+### 👉 Programming languages
+
+<p align="left"> 
+  &emsp; 
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+  <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="angular" width="40" height="40"/></a>
+  &emsp;
+
+</p>
+
 
 
 
