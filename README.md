@@ -9,10 +9,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/09692919-64b4-43a9-9f49-401df6d24efb">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+en+Tecnologias+de+la+Informacion;Analista+de+Datos+|+DBA+|Programador;Freelance;"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me (Sobre mi)**
+## <picture><img src = "https://github.com/user-attachments/assets/be78d950-65ca-4be0-b9be-a9618aec45c5" width = 50px></picture> **About me (Sobre mi)**
 
 <h4 align="center">I am José, a passionate technology and innovation professional with experience in developing technology projects with social and educational impact. My current focus is on strengthening my skills in data analysis. I have led projects that include the creation of mobile applications to facilitate the translation from Spanish to Tsafiki, a native language, from the Province of Santo Domingo de los Tsachilas, Ecuador. In addition to contributing to the development of Machine Learning models to predict student attrition at my university. My commitment to excellence is reflected in awards obtained in science and technology congresses. I am always looking for challenges that allow me to apply my technical knowledge to generate a positive impact on society.</h4>
 
