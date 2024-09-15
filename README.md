@@ -25,7 +25,7 @@
 <h3 align="center">Contact me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jose" height="40" width="50" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jose" height="40" width="50" /></a>
+  <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f931e186-da61-4eb2-917e-6b8cbf705a12" alt="jose" height="50" width="60" /></a>
   <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jose" height="40" width="50" /></a>
   <a href="https://www.tiktok.com/@jose.coder.tech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/45270fa2-bfe5-478d-8b8e-b9c4684bbb36" alt="jose" height="60" width="70" /></a>
 
