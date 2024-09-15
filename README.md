@@ -44,11 +44,11 @@
   &emsp; 
   <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://github.com/user-attachments/assets/1a3f2320-54e3-4923-a920-3b19da95e828" alt="hmtl" width="50" height="50"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="hmtl" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="css" width="50" height="50"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://github.com/user-attachments/assets/cfb42994-ddb5-49de-b1d1-c9f12c5b776e" alt="type" width="50" height="50"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="type" width="50" height="50"/></a>
   &emsp;
 
 </p>
