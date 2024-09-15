@@ -22,7 +22,7 @@
 
 <!-- CONNECTION -->
 <hr>      
-<h3 align="center">Contact me:</h3>
+<h3 align="center">Contactame:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21f320c4-aa52-4a45-96c1-57cc4af03e8c" alt="jose" height="50" width="50" /></a>
   <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f931e186-da61-4eb2-917e-6b8cbf705a12" alt="jose" height="50" width="50" /></a>
@@ -37,11 +37,12 @@
 
 # 🛠️ Mis conocimientos
 
-## 👉 Lenguajes de Programación
+## 👉 Desarrollo FrontEnd
+### 💻 Lenguajes de Porgramación
 
 <p align="left"> 
   &emsp; 
-  <a href="https://www.bloodshed.net/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/CPP.svg" alt="c++" width="50" height="50"/></a>
+  <a target="_blank"> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="50" height="50"/></a>
   &emsp;
   <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="c" width="50" height="50"/></a>
   &emsp;
