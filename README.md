@@ -46,7 +46,7 @@
   &emsp;
   <a> <img src="https://github.com/user-attachments/assets/1a3f2320-54e3-4923-a920-3b19da95e828" alt="hmtl" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://github.com/user-attachments/assets/cbca81b0-1499-4ab6-99fc-87390e733454" alt="css" width="50" height="50"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="css" width="50" height="50"/></a>
   &emsp;
   <a> <img src="https://github.com/user-attachments/assets/cfb42994-ddb5-49de-b1d1-c9f12c5b776e" alt="type" width="50" height="50"/></a>
   &emsp;
