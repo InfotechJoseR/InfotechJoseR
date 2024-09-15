@@ -20,9 +20,9 @@
 
 <h4 align="center">Soy José, un apasionado profesional de la tecnología y la innovación con experiencia en el desarrollo de proyectos tecnológicos con impacto social y educativo. Mi enfoque actual se centra en fortalecer mis habilidades en análisis de datos. He liderado proyectos que incluyen la creación de aplicaciones móviles para facilitar la traducción de español a Tsafiki, un idioma nativo, de la Provincia de Santo Domingo de los Tsachilas, Ecuador. Además de contribuir al desarrollo de modelos de Machine Learning para predecir la deserción estudiantil de mi universidad. Mi compromiso con la excelencia se refleja en premios obtenidos en congresos de ciencias y tecnología. Siempre estoy en busca de desafíos que me permitan aplicar mis conocimientos técnicos para generar un impacto positivo en la sociedad.</h4>
 
-<!-- CONNECTION -->
+<!-- CONTACTAME-->
 <hr>      
-<h3 align="center">Contactame:</h3>
+<h3 align="center"> 📲 Contactame:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21f320c4-aa52-4a45-96c1-57cc4af03e8c" alt="jose" height="50" width="50" /></a>
   <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f931e186-da61-4eb2-917e-6b8cbf705a12" alt="jose" height="50" width="50" /></a>
@@ -42,13 +42,13 @@
 
 <p align="left"> 
   &emsp; 
-  <a target="_blank"> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="50" height="50"/></a>
+  <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="50" height="50"/></a>
   &emsp;
-  <a href="https://visualstudio.microsoft.com/es/vs/features/cplusplus/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/C.svg" alt="c" width="50" height="50"/></a>
+  <a> <img src="https://github.com/user-attachments/assets/1a3f2320-54e3-4923-a920-3b19da95e828" alt="hmtl" width="50" height="50"/></a>
   &emsp;
-  <a href="https://www.java.com/es/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Java-Dark.svg" alt="java" width="50" height="50"/></a>
+  <a> <img src="https://github.com/user-attachments/assets/cbca81b0-1499-4ab6-99fc-87390e733454" alt="css" width="50" height="50"/></a>
   &emsp;
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Python-Dark.svg" alt="python" width="50" height="50"/></a>
+  <a> <img src="https://github.com/user-attachments/assets/b8f18eda-7887-4279-b79c-131ad0fe2f1c" alt="type" width="50" height="50"/></a>
   &emsp;
 
 </p>
