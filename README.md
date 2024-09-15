@@ -27,7 +27,7 @@
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21f320c4-aa52-4a45-96c1-57cc4af03e8c" alt="jose" height="50" width="50" /></a>
   <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f931e186-da61-4eb2-917e-6b8cbf705a12" alt="jose" height="50" width="50" /></a>
   <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/42632ae8-2aae-494f-9624-26f9495dd31f" alt="jose" height="50" width="50" /></a>
-  <a href="https://www.tiktok.com/@jose.coder.tech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/cff0336c-e568-4bdb-949a-37c8104da3fa" alt="jose" height="50" width="50" /></a>
+  <a href="https://www.tiktok.com/@jose.coder.tech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/99404571-dc36-4b28-8db9-fe7dc82ae623" alt="jose" height="50" width="50" /></a>
 
 
   
