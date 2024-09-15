@@ -42,7 +42,7 @@
 
 <p align="left"> 
   &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="50" height="50"/></a>
+  <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="48" height="48"/></a>
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="hmtl" width="50" height="50"/></a>
   &emsp;
