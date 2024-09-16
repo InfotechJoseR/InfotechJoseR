@@ -51,6 +51,8 @@
   <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="type" width="50" height="50"/></a>
   &emsp;
 
+</p>
+
 ###  🖥 Frameworks y Librerías
 <p align="left"> 
   &emsp; 
@@ -63,7 +65,24 @@
   <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
   &emsp;
   
+</p>
 
+###  ⌨ Herramientas y Tecnologías
+<p align="left"> 
+  &emsp; 
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="50" height="50"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github" width="50" height="50"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="web" width="50" height="50"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="50" height="50"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="50" height="50"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="50" height="50"/></a>
+  &emsp;
+  
 </p>
 
 ## 👉 Diseño Gráfico
