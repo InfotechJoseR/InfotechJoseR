@@ -85,6 +85,7 @@
 </p>
 
 <hr style="border: 0; height: 2px; background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,154,0,1) 50%, rgba(255,0,0,1) 100%); box-shadow: 0 0 10px rgba(255,0,0,0.5); animation: glow 1s infinite alternate;">
+<style>@keyframes glow { from { box-shadow: 0 0 5px rgba(255,0,0,0.5); } to { box-shadow: 0 0 20px rgba(255,0,0,1); } }</style>
 
 
 ## 👉 Ciencia de Datos
