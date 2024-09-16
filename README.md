@@ -86,6 +86,24 @@
 
 ## 👉 Ciencia de Datos
 
+### 💻 Lenguajes de Porgramación
+
+<p align="left"> 
+  &emsp; 
+  <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="48" height="48"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="hmtl" width="55" height="55"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="55" height="55"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="type" width="50" height="50"/></a>
+  &emsp;
+
+</p>
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
+###  🖥 Frameworks y Librerías
 <p align="left"> 
   &emsp; 
   <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/></a>
@@ -97,6 +115,23 @@
   <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
   &emsp;
   
+</p>
+
+###  ⌨ Herramientas y Tecnologías
+<p align="left"> 
+  &emsp; 
+  <a> <img src="https://github.com/user-attachments/assets/3c6b5b19-2345-40cd-9522-a53ede5a5193" alt="git" width="56" height="56"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github" width="80" height="80"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="web" width="56" height="56"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="60" height="60"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="60" height="60"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="60" height="60"/></a>
+  &emsp; 
 </p>
 
   <hr>
