@@ -85,7 +85,7 @@
 </p>
 
 [![-----------------------------------------------------](
-https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
+https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)]
 
 ## 👉 Ciencia de Datos
 
