@@ -29,6 +29,7 @@
   <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/42632ae8-2aae-494f-9624-26f9495dd31f" alt="jose" height="50" width="50" /></a>
   <a href="https://www.tiktok.com/@jose.coder.tech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/de52ff19-f550-49a5-b62d-38ccb339c45b" alt="jose" height="55" width="55" /></a>  
 </p>
+
 [![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 # 🛠️ Mis conocimientos
