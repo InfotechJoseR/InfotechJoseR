@@ -1,4 +1,4 @@
-<!--horizontal divider(gradiant)-->
+ <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
@@ -21,7 +21,8 @@
 <h4 align="center">Soy José, un apasionado profesional de la tecnología y la innovación con experiencia en el desarrollo de proyectos tecnológicos con impacto social y educativo. Mi enfoque actual se centra en fortalecer mis habilidades en análisis de datos. He liderado proyectos que incluyen la creación de aplicaciones móviles para facilitar la traducción de español a Tsafiki, un idioma nativo, de la Provincia de Santo Domingo de los Tsachilas, Ecuador. Además de contribuir al desarrollo de modelos de Machine Learning para predecir la deserción estudiantil de mi universidad. Mi compromiso con la excelencia se refleja en premios obtenidos en congresos de ciencias y tecnología. Siempre estoy en busca de desafíos que me permitan aplicar mis conocimientos técnicos para generar un impacto positivo en la sociedad.</h4>
 
 <!-- CONTACTAME-->
-[![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)      
+[![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)   
+
 <h3 align="center"> 📲 Contactame:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21f320c4-aa52-4a45-96c1-57cc4af03e8c" alt="jose" height="50" width="50" /></a>
@@ -141,14 +142,14 @@
 ### 🖱 Herramientas de diseño
 <p align="left"> 
   &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="ps" width="70" height="70"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="ps" width="65" height="65"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="canva" width="65" height="65"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="canva" width="60" height="60"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="ph" width="57" height="57"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="ph" width="55" height="55"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="st" width="65" height="65"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="st" width="70" height="70"/></a>
   &emsp;
-  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ3nlvG2GWFKMPj7LLxPgUd1wlL5nSKEuDg&s" alt="express" width="55" height="55"/></a>
+  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ3nlvG2GWFKMPj7LLxPgUd1wlL5nSKEuDg&s" alt="express" width="50" height="50"/></a>
   &emsp;
 </p>
