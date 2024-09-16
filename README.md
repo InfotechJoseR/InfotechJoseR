@@ -84,9 +84,7 @@
   &emsp; 
 </p>
 
-<hr style="border: 1px solid #ccc;">
-<div style="height: 5px; background: linear-gradient(90deg, rgba(255,0,150,1) 0%, rgba(0,229,255,1) 100%); box-shadow: 0 0 20px rgba(255,0,150,0.7), 0 0 20px rgba(0,229,255,0.7);"></div>
-
+<hr style="border: 0; height: 2px; background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(255,154,0,1) 50%, rgba(255,0,0,1) 100%); box-shadow: 0 0 10px rgba(255,0,0,0.5); animation: glow 1s infinite alternate;">
 
 
 ## 👉 Ciencia de Datos
