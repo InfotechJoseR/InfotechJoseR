@@ -21,25 +21,20 @@
 <h4 align="center">Soy José, un apasionado profesional de la tecnología y la innovación con experiencia en el desarrollo de proyectos tecnológicos con impacto social y educativo. Mi enfoque actual se centra en fortalecer mis habilidades en análisis de datos. He liderado proyectos que incluyen la creación de aplicaciones móviles para facilitar la traducción de español a Tsafiki, un idioma nativo, de la Provincia de Santo Domingo de los Tsachilas, Ecuador. Además de contribuir al desarrollo de modelos de Machine Learning para predecir la deserción estudiantil de mi universidad. Mi compromiso con la excelencia se refleja en premios obtenidos en congresos de ciencias y tecnología. Siempre estoy en busca de desafíos que me permitan aplicar mis conocimientos técnicos para generar un impacto positivo en la sociedad.</h4>
 
 <!-- CONTACTAME-->
-<hr>      
+[![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)      
 <h3 align="center"> 📲 Contactame:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21f320c4-aa52-4a45-96c1-57cc4af03e8c" alt="jose" height="50" width="50" /></a>
   <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f931e186-da61-4eb2-917e-6b8cbf705a12" alt="jose" height="50" width="50" /></a>
   <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/42632ae8-2aae-494f-9624-26f9495dd31f" alt="jose" height="50" width="50" /></a>
-  <a href="https://www.tiktok.com/@jose.coder.tech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/de52ff19-f550-49a5-b62d-38ccb339c45b" alt="jose" height="55" width="55" /></a>
-
-
-  
+  <a href="https://www.tiktok.com/@jose.coder.tech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/de52ff19-f550-49a5-b62d-38ccb339c45b" alt="jose" height="55" width="55" /></a>  
 </p>
-
-<hr>
+[![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 # 🛠️ Mis conocimientos
 
-[![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
-
 ## 👉 Desarrollo FrontEnd
+
 ### 💻 Lenguajes de Porgramación
 
 <p align="left"> 
