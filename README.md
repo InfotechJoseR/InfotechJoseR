@@ -88,10 +88,18 @@
 
 <p align="left"> 
   &emsp; 
-  <a> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/af89bcc5e478013caaa514c31a3789f25e818193/icons/Photoshop.svg" alt="ps" width="50" height="50"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/></a>
   &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boot" width="50" height="50"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/></a>
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
+  &emsp;
+  
+</p>
 
-  </p>
+  <hr>
 
 ## 👉 Diseño Gráfico
 
