@@ -138,16 +138,16 @@
 
 ## 👉 Diseño gráfico y creatividad
 
-###  ⌨ Herramientas de diseño
+### 🖱 Herramientas de diseño
 <p align="left"> 
   &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="ps" width="56" height="56"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="ps" width="65" height="65"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3504/PNG/512/canva_icon_220714.png" alt="canva" width="80" height="80"/></a>
+  <a> <img src="https://images-eds-ssl.xboxlive.com/image url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxo4K81Ei7WzcnqEk8W.MgwbfsYWIgCU33lqIDznmFwXhFY46cqC0O.CIKQJBsU.BqPtGUBhJYm.OwGDIcyKnF18-&format=source" alt="canva" width="65" height="65"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="ph" width="56" height="56"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="ph" width="60" height="60"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="st" width="60" height="60"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="st" width="65" height="65"/></a>
   &emsp;
   <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ3nlvG2GWFKMPj7LLxPgUd1wlL5nSKEuDg&s" alt="express" width="60" height="60"/></a>
   &emsp;
