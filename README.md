@@ -94,15 +94,12 @@
 
 <p align="left"> 
   &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="48" height="48"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="hmtl" width="55" height="55"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" alt="sql" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="55" height="55"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png" alt="r" width="55" height="55"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="type" width="50" height="50"/></a>
-  &emsp;
-
 </p>
 
 
