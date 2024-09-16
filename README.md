@@ -70,7 +70,7 @@
 ###  ⌨ Herramientas y Tecnologías
 <p align="left"> 
   &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" alt="git" width="56" height="56"/></a>
+  <a> <img src="https://github.com/user-attachments/assets/3c6b5b19-2345-40cd-9522-a53ede5a5193" alt="git" width="60" height="60"/></a>
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github" width="80" height="80"/></a>
   &emsp;
