@@ -85,6 +85,8 @@
 </p>
 
 <hr style="border: 1px solid #ccc;">
+<div style="height: 5px; background: linear-gradient(90deg, rgba(255,0,150,1) 0%, rgba(0,229,255,1) 100%); box-shadow: 0 0 20px rgba(255,0,150,0.7), 0 0 20px rgba(0,229,255,0.7);"></div>
+
 
 ## 👉 Ciencia de Datos
 
