@@ -107,8 +107,7 @@
 ###  🖥 Frameworks y Librerías
 <p align="left"> 
   &emsp; 
-  <a> <img src="![image](https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050)
-" alt="pandas" width="50" height="50"/></a>
+  <a> <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/></a>
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boot" width="50" height="50"/></a>
   &emsp;
