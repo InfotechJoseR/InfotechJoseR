@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ing.+en+Tecnologias+de+la+Informacion;Analista+de+Datos+|+DBA+|Programador;Freelance;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+en+Tecnologías+de+la+Información;Desarrollador+FrontEnd;Analista+de+Datos;Diseñador+3D;Freelance;"></a>
 </p>
 
 ## <picture><img src="https://github.com/user-attachments/assets/1cf1d7a2-0977-4a6f-b98f-1671280b55db" width="80px" style="vertical-align: middle;"></picture> <span style="font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px #000000;">**About me (Sobre mi)**</span>
