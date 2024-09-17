@@ -135,7 +135,7 @@
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="web" width="56" height="56"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="60" height="60"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="70" height="60"/></a>
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="60" height="60"/></a>
   &emsp;
