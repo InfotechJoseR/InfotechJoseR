@@ -111,7 +111,7 @@
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" alt="numpy" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/></a>
+  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="met" width="50" height="50"/></a>
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
   &emsp;
