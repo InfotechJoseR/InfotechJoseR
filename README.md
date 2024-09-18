@@ -115,7 +115,7 @@
   &emsp;
   <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" alt="tenso" width="50" height="50"/></a>
   &emsp;
   <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
   &emsp;
