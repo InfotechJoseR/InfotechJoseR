@@ -39,9 +39,10 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+
 ### 💻 Lenguajes de Programación
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
   <!-- JavaScript -->
   <div style="text-align: center;">
     <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48"/>
@@ -63,6 +64,7 @@
     <br>TypeScript
   </div>
 </div>
+
 
 
 
