@@ -41,7 +41,7 @@
 
 ### 💻 Lenguajes de Programación
 
-<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center; border: 1px solid #ccc; padding: 10px;">
   <div>
     <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48"/>
     <br>JavaScript
