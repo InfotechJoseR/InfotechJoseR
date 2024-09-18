@@ -37,9 +37,6 @@
 
 ## 👉 Desarrollo FrontEnd
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-
 ### 💻 Lenguajes de Programación
 
 <div style="display: flex; justify-content: space-around; align-items: center; text-align: center; border: 1px solid #ccc; padding: 10px;">
