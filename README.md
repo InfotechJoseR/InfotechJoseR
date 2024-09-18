@@ -41,7 +41,7 @@
 
 ### 💻 Lenguajes de Programación
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48"/>
     <br>JavaScript
@@ -59,6 +59,7 @@
     <br>TypeScript
   </div>
 </div>
+
 
 ###  🖥 Frameworks y Librerías
 <p align="left"> 
