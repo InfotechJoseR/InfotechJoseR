@@ -43,15 +43,26 @@
 
 <p align="left"> 
   &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="javas" width="48" height="48"/></a>
+  <a>
+    <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48"/>
+    <p align="center">JavaScript</p>
+  </a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="hmtl" width="55" height="55"/></a>
+  <a>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="55" height="55"/>
+    <p align="center">HTML</p>
+  </a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="55" height="55"/></a>
+  <a>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="55" height="55"/>
+    <p align="center">CSS</p>
+  </a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="type" width="50" height="50"/></a>
+  <a>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="50" height="50"/>
+    <p align="center">TypeScript</p>
+  </a>
   &emsp;
-
 </p>
 
 ###  🖥 Frameworks y Librerías
@@ -117,11 +128,11 @@
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" alt="tenso" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
+  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
+  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="opencv" width="50" height="50"/></a>
   &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
+  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2NR1k6z-BOxtMrMoFocQTG_UrHyM4RTJ3Q&s" alt="open3D" width="50" height="50"/></a>
   &emsp;
   
 </p>
