@@ -41,29 +41,24 @@
 
 ### 💻 Lenguajes de Programación
 
-<p align="left"> 
-  &emsp; 
-  <a>
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <div style="text-align: center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48"/>
-    <p align="center">JavaScript</p>
-  </a>
-  &emsp;
-  <a>
+    <br>JavaScript
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="55" height="55"/>
-    <p align="center">HTML</p>
-  </a>
-  &emsp;
-  <a>
+    <br>HTML
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="55" height="55"/>
-    <p align="center">CSS</p>
-  </a>
-  &emsp;
-  <a>
+    <br>CSS
+  </div>
+  <div style="text-align: center; margin: 10px;">
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="50" height="50"/>
-    <p align="center">TypeScript</p>
-  </a>
-  &emsp;
-</p>
+    <br>TypeScript
+  </div>
+</div>
 
 ###  🖥 Frameworks y Librerías
 <p align="left"> 
