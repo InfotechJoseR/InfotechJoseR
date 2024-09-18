@@ -42,32 +42,17 @@
 
 ### 💻 Lenguajes de Programación
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-direction: row;">
-
-  <!-- JavaScript -->
-  <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48"/>
-    <br>JavaScript
-  </div>
-  <!-- HTML -->
-  <div style="text-align: center;">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="55" height="55"/>
-    <br>HTML
-  </div>
-  <!-- CSS -->
-  <div style="text-align: center;">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="55" height="55"/>
-    <br>CSS
-  </div>
-  <!-- TypeScript -->
-  <div style="text-align: center;">
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="50" height="50"/>
-    <br>TypeScript
-  </div>
-</div>
-
-
-
+<p align="center"> 
+    
+  <a> <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48"/><br>JavaScript</a>
+   
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="55" height="55"/><br>HTML</a>
+   
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="55" height="55"/><br>CSS</a>
+   
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="50" height="50"/><br>TypeScript</a>
+   
+</p>
 
 
 
