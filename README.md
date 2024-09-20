@@ -1,8 +1,7 @@
- <!--horizontal divider(gradiant)-->
+<!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
-
 <h1 align="center"><b>Bienvenido a mi repositorio</b></h1>
 
 <!--horizontal divider(gradiant)-->
@@ -14,21 +13,33 @@
 
 ## <picture><img src="https://github.com/user-attachments/assets/1cf1d7a2-0977-4a6f-b98f-1671280b55db" width="80px" style="vertical-align: middle;"></picture> <span style="font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px #000000;">**About me (Sobre mi)**</span>
 
-<h4 align="center">I am José, a passionate technology and innovation professional with experience in developing technology projects with social and educational impact. My current focus is on strengthening my skills in data analysis. I have led projects that include the creation of mobile applications to facilitate the translation from Spanish to Tsafiki, a native language, from the Province of Santo Domingo de los Tsachilas, Ecuador. In addition to contributing to the development of Machine Learning models to predict student attrition at my university. My commitment to excellence is reflected in awards obtained in science and technology congresses. I am always looking for challenges that allow me to apply my technical knowledge to generate a positive impact on society.</h4>
+<h4 align="center">I am José, a passionate technology and innovation professional with experience in developing technology projects with social and educational impact...</h4>
 
 <br>
 
-<h4 align="center">Soy José, un apasionado profesional de la tecnología y la innovación con experiencia en el desarrollo de proyectos tecnológicos con impacto social y educativo. Mi enfoque actual se centra en fortalecer mis habilidades en análisis de datos. He liderado proyectos que incluyen la creación de aplicaciones móviles para facilitar la traducción de español a Tsafiki, un idioma nativo, de la Provincia de Santo Domingo de los Tsachilas, Ecuador. Además de contribuir al desarrollo de modelos de Machine Learning para predecir la deserción estudiantil de mi universidad. Mi compromiso con la excelencia se refleja en premios obtenidos en congresos de ciencias y tecnología. Siempre estoy en busca de desafíos que me permitan aplicar mis conocimientos técnicos para generar un impacto positivo en la sociedad.</h4>
+<h4 align="center">Soy José, un apasionado profesional de la tecnología y la innovación...</h4>
 
 <!-- CONTACTAME-->
-[![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)   
+[![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
 <h3 align="center"> 📲 Contactame:</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/21f320c4-aa52-4a45-96c1-57cc4af03e8c" alt="jose" height="50" width="50" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank"><img align="center" src="https://github.com/user-attachments/assets/f931e186-da61-4eb2-917e-6b8cbf705a12" alt="jose" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/jose_r305/" target="blank"><img align="center" src="https://github.com/user-attachments/assets/42632ae8-2aae-494f-9624-26f9495dd31f" alt="jose" height="50" width="50" /></a>
-  <a href="https://www.tiktok.com/@jose.coder.tech" target="blank"><img align="center" src="https://github.com/user-attachments/assets/de52ff19-f550-49a5-b62d-38ccb339c45b" alt="jose" height="55" width="55" /></a>  
+<p align="center" style="display: flex; justify-content: center; gap: 30px;">
+  <a href="https://www.linkedin.com/in/jose-ruiz-0367b4168/" target="blank">
+    <img src="https://github.com/user-attachments/assets/21f320c4-aa52-4a45-96c1-57cc4af03e8c" alt="LinkedIn" height="50" width="50" />
+    <p>LinkedIn</p>
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100001955675666&ref=xav_ig_profile_web" target="blank">
+    <img src="https://github.com/user-attachments/assets/f931e186-da61-4eb2-917e-6b8cbf705a12" alt="Facebook" height="50" width="50" />
+    <p>Facebook</p>
+  </a>
+  <a href="https://www.instagram.com/jose_r305/" target="blank">
+    <img src="https://github.com/user-attachments/assets/42632ae8-2aae-494f-9624-26f9495dd31f" alt="Instagram" height="50" width="50" />
+    <p>Instagram</p>
+  </a>
+  <a href="https://www.tiktok.com/@jose.coder.tech" target="blank">
+    <img src="https://github.com/user-attachments/assets/de52ff19-f550-49a5-b62d-38ccb339c45b" alt="TikTok" height="55" width="55" />
+    <p>TikTok</p>
+  </a>
 </p>
 
 [![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
@@ -37,123 +48,63 @@
 
 ## 👉 Desarrollo FrontEnd
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 ### 💻 Lenguajes de Programación
 
 <div style="display: flex; justify-content: space-around; align-items: center; border: 1px solid #ccc; padding: 10px;">
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="55" height="55" style="margin: 0 30px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="55" height="55" style="margin: 0 30px;"/>
-  <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48" style="margin: 0 30px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="50" height="50" style="margin: 0 30px;"/>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" alt="HTML" width="55" height="55" />
+    <p>HTML</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="CSS" width="55" height="55" />
+    <p>CSS</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/b8977611-b63e-4b05-b6e6-f199e24b4a84" alt="JavaScript" width="48" height="48" />
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="50" height="50" />
+    <p>TypeScript</p>
+  </div>
 </div>
 
-
-
-###  🖥 Frameworks y Librerías
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boot" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
-  &emsp;
-  
+### 🖥 Frameworks y Librerías
+<p align="left" style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="Angular" width="50" height="50" />
+    <p>Angular</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="Bootstrap" width="50" height="50" />
+    <p>Bootstrap</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="Sass" width="50" height="50" />
+    <p>Sass</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="React" width="50" height="50" />
+    <p>React</p>
+  </div>
 </p>
 
-###  ⌨ Herramientas y Tecnologías
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/3c6b5b19-2345-40cd-9522-a53ede5a5193" alt="git" width="56" height="56"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github" width="80" height="80"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="web" width="56" height="56"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="60" height="60"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="60" height="60"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="60" height="60"/></a>
-  &emsp; 
-</p>
-
-<hr>
-
-## 👉 Ciencia de Datos
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-### 💻 Lenguajes de Programación
-
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" alt="sql" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png" alt="r" width="55" height="55"/></a>
-  &emsp;
-</p>
-
-
-###  🖥 Frameworks y Librerías
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" alt="numpy" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="met" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" alt="tenso" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="opencv" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2NR1k6z-BOxtMrMoFocQTG_UrHyM4RTJ3Q&s" alt="open3D" width="50" height="50"/></a>
-  &emsp;
-  
-</p>
-
-###  ⌨ Herramientas y Tecnologías
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/3c6b5b19-2345-40cd-9522-a53ede5a5193" alt="git" width="56" height="56"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github" width="80" height="80"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="web" width="56" height="56"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="80" height="60"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="60" height="60"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="60" height="60"/></a>
-  &emsp; 
-</p>
-
-  <hr>
-
-## 👉 Diseño gráfico y creatividad
-
-### 🖱 Herramientas de diseño
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="ps" width="65" height="65"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="canva" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="ph" width="55" height="55"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="st" width="65" height="65"/></a>
-  &emsp;
-  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ3nlvG2GWFKMPj7LLxPgUd1wlL5nSKEuDg&s" alt="express" width="53" height="53"/></a>
-  &emsp;
+### ⌨ Herramientas y Tecnologías
+<p align="left" style="display: flex; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/3c6b5b19-2345-40cd-9522-a53ede5a5193" alt="Git" width="56" height="56" />
+    <p>Git</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="GitHub" width="80" height="80" />
+    <p>GitHub</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="Webpack" width="56" height="56" />
+    <p>Webpack</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="Figma" width="60" height="60" />
+    <p>Figma</p>
+  </div>
 </p>
