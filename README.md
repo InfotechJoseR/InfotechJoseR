@@ -53,8 +53,11 @@
   <!-- Nombres -->
   <div style="display: flex; justify-content: space-around; width: 100%;">
     <span style="margin-right: 40px;">Angular</span>
+   &emsp;
     <span style="margin-right: 40px;">Bootstrap</span>
+   &emsp;
     <span style="margin-right: 40px;">Sass</span>
+   &emsp;
     <span>React</span>
 </div>
 
