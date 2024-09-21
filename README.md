@@ -49,25 +49,29 @@
 </div>
 
 ### 🖥 Frameworks y Librerías
-<p align="left"> 
-  &emsp; 
-  <a style="text-align: center; display: inline-block;"> 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/><br>Angular
-  </a>
-  &emsp;
-  <a style="text-align: center; display: inline-block;"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/><br>Bootstrap
-  </a>
-  &emsp;
-  <a style="text-align: center; display: inline-block;"> 
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/><br>Sass
-  </a>
-  &emsp;
-  <a style="text-align: center; display: inline-block;"> 
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/><br>React
-  </a>
-  &emsp;
-</p>
+<div style="text-align: left;">
+  <div style="margin-bottom: 20px;">
+    <span>Angular</span>
+    <br>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <span>Bootstrap</span>
+    <br>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <span>Sass</span>
+    <br>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/>
+  </div>
+  <div style="margin-bottom: 20px;">
+    <span>React</span>
+    <br>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/>
+  </div>
+</div>
+
 
 
 
