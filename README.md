@@ -53,6 +53,7 @@
     <span>Angular</span>
     &emsp; 
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
+ <br>
  </div>
  <div style="text-align: left;">
     <span>Bootstrap</span>
