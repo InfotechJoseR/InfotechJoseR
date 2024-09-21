@@ -52,7 +52,7 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
   <div>
-    Angular&nbsp;&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;&nbsp;React
+    Angular&nbsp;&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React
   </div>
 
   <!-- Logos -->
