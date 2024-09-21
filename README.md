@@ -52,13 +52,12 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
   <div>
-    Angular&nbsp;&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap
+    Angular&nbsp;&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;&nbsp;React
   </div>
 
   <!-- Logos -->
   <div style="display: flex; justify-content: space-around; width: 100%">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
-    &emsp;
     &emsp;
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/>
     &emsp;
