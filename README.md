@@ -51,12 +51,10 @@
 ### 🖥 Frameworks y Librerías
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
-  <div style="display: flex; width: 100%;">
-    <span style="flex: 0 0 auto;">Angular</span>
-    <span style="flex: 0 0 auto;">Bootstrap</span>
-    <span style="flex: 0 0 auto;">Sass</span>
-    <span>React</span>
-</div>
+  <div>
+    Angular&nbsp;&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;&nbsp;Bootstrap
+  </div>
+
   <!-- Logos -->
   <div style="display: flex; justify-content: space-around; width: 100%">
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
