@@ -49,21 +49,26 @@
 </div>
 
 ### 🖥 Frameworks y Librerías
-<p align="left"> 
+<p align="center"> 
   &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/></a>
-  <center>Angular</center>
+  <a style="text-align: center; display: inline-block;"> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/><br>Angular
+  </a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/></a>
-  <center>Bootstrap</center>
+  <a style="text-align: center; display: inline-block;"> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/><br>Bootstrap
+  </a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/></a>
-  <center>Sass</center>
+  <a style="text-align: center; display: inline-block;"> 
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/><br>Sass
+  </a>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
-  <center>React</center>
+  <a style="text-align: center; display: inline-block;"> 
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/><br>React
+  </a>
   &emsp;
 </p>
+
 
 
 ###  ⌨ Herramientas y Tecnologías
