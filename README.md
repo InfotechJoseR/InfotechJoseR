@@ -53,10 +53,10 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
   <div style="display: flex; justify-content: space-around; width: 100%;">
-    <span style="margin-right: 5mm;">Angular</span>
-    <span style="margin-right: 5mm;">Bootstrap</span>
-    <span style="margin-right: 5mm;">Sass</span>
-    <span style="margin-right: 5mm;">React</span>
+    <span style="margin-right: 10mm;">Angular</span>
+    <span style="margin-right: 10mm;">Bootstrap</span>
+    <span style="margin-right: 10mm;">Sass</span>
+    <span style="margin-right: 10mm;">React</span>
   </div>
   
   <!-- Logos -->
