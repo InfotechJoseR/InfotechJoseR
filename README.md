@@ -53,22 +53,20 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
   <div style="display: flex; justify-content: space-around; width: 100%;">
-    <span style="margin-right: 40px;">Angular</span>
-    <span style="margin-right: 40px;">Bootstrap</span>
-    <span style="margin-right: 40px;">Sass</span>
-    <span style="margin-right: 40px;">React</span>
+    <span style="margin-right: 5mm;">Angular</span>
+    <span style="margin-right: 5mm;">Bootstrap</span>
+    <span style="margin-right: 5mm;">Sass</span>
+    <span style="margin-right: 5mm;">React</span>
   </div>
   
   <!-- Logos -->
   <div style="display: flex; justify-content: space-around; width: 100%; margin-top: 5mm;">
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/>
-    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/>
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50" style="margin-right: 5mm;"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50" style="margin-right: 5mm;"/>
+    <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50" style="margin-right: 5mm;"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50" style="margin-right: 5mm;"/>
   </div>
 </div>
-
-
 
 
 ###  ⌨ Herramientas y Tecnologías
