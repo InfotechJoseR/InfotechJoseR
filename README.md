@@ -52,12 +52,13 @@
 <div style="text-align: left;">
     <span>Angular</span>
     &emsp; 
-    <br>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
+ </div>
+ <div style="text-align: left;">
     <span>Bootstrap</span>
     &emsp;
-   <br>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/>
+ </div>
     <span>Sass</span>
     &emsp; 
  <br>
