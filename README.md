@@ -49,7 +49,7 @@
 </div>
 
 ### 🖥 Frameworks y Librerías
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a style="text-align: center; display: inline-block;"> 
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/><br>Angular
