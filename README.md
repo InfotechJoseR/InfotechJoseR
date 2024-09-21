@@ -49,28 +49,30 @@
 </div>
 
 ### 🖥 Frameworks y Librerías
-<div style="display: flex; justify-content: flex-start; align-items: center; gap: 40px;">
-  <!-- Nombres y Logos juntos -->
+
+<!-- Nombres -->
+<div style="display: flex; justify-content: flex-start; gap: 50px; margin-bottom: 10px;">
+  <div style="text-align: center;">Angular</div>
+  <div style="text-align: center;">Bootstrap</div>
+  <div style="text-align: center;">Sass</div>
+  <div style="text-align: center;">React</div>
+</div>
+
+<!-- Logos -->
+<div style="display: flex; justify-content: flex-start; gap: 50px;">
   <div style="text-align: center;">
-    <span style="display: block; margin-bottom: 10px;">Angular</span>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
   </div>
   <div style="text-align: center;">
-    <span style="display: block; margin-bottom: 10px;">Bootstrap</span>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/>
   </div>
   <div style="text-align: center;">
-    <span style="display: block; margin-bottom: 10px;">Sass</span>
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/>
   </div>
   <div style="text-align: center;">
-    <span style="display: block; margin-bottom: 10px;">React</span>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/>
   </div>
 </div>
-
-
-
 
 
 ###  ⌨ Herramientas y Tecnologías
