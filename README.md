@@ -51,10 +51,10 @@
 ### 🖥 Frameworks y Librerías
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
-  <div style="display: flex; justify-content: space-between; width: 100%;">
-    <span style="margin-right: 40px;">Angular</span>
-    <span style="margin-right: 40px;">Bootstrap</span>
-    <span style="margin-right: 40px;">Sass</span>
+  <div style="display: flex; width: 100%;">
+    <span style="flex: 0 0 auto;">Angular</span>
+    <span style="flex: 0 0 auto;">Bootstrap</span>
+    <span style="flex: 0 0 auto;">Sass</span>
     <span>React</span>
 </div>
   <!-- Logos -->
