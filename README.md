@@ -52,17 +52,22 @@
 <div style="text-align: left;">
     <span>Angular</span>
     &emsp; 
+    <br>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/>
     <span>Bootstrap</span>
-    &emsp; 
+    &emsp;
+   <br>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/>
     <span>Sass</span>
     &emsp; 
+ <br>
     <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/>
     <span>React</span>
     &emsp; 
+ <br>
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/>
     &emsp; 
+ <br>
 </div>
 
 
