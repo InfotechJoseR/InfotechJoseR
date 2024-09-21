@@ -48,10 +48,24 @@
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" alt="TypeScript" width="50" height="50" style="margin: 0 30px;"/>
 </div>
 
+### 🖥 Frameworks y Librerías
+<p align="center"> 
+  &emsp; 
+  <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/></a>
+  <br>Angular
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boot" width="50" height="50"/></a>
+  <br>Bootstrap
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/></a>
+  <br>Sass
+  &emsp;
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
+  <br>React
+  &emsp;
+</p>
 
 
-###  🖥 Frameworks y Librerías
-<p align="left"> &emsp; <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/> Angular</a> &emsp; <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boot" width="50" height="50"/> Bootstrap</a> &emsp; <a> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/> Sass</a> &emsp; <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/> React</a> &emsp; </p>
 
 ###  ⌨ Herramientas y Tecnologías
 <p align="left"> 
