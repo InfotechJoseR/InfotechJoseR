@@ -49,22 +49,21 @@
 </div>
 
 ### 🖥 Frameworks y Librerías
-<p align="center"> 
+<p align="left"> 
   &emsp; 
   <a> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="50" height="50"/></a>
-  <br>Angular
+  <br><center>Angular</center>
   &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="boot" width="50" height="50"/></a>
-  <br>Bootstrap
+  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_logo_icon_146619.png" alt="bootstrap" width="50" height="50"/></a>
+  <br><center>Bootstrap</center>
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/sass_icon_130835.png" alt="sass" width="50" height="50"/></a>
-  <br>Sass
+  <br><center>Sass</center>
   &emsp;
   <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png" alt="react" width="50" height="50"/></a>
-  <br>React
+  <br><center>React</center>
   &emsp;
 </p>
-
 
 
 ###  ⌨ Herramientas y Tecnologías
