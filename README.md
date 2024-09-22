@@ -114,20 +114,25 @@
 
 ## 👉 Ciencia de Datos
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
 ### 💻 Lenguajes de Programación
 
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" alt="sql" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png" alt="r" width="55" height="55"/></a>
-  &emsp;
-</p>
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+ 
+  <!-- Nombres -->
+  <div>
+    Python&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SQL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;R
+  </div>
 
+  <!-- Logos -->
+  <div style="display: flex; justify-content: space-around; width: 100%">
+    <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" alt="python" width="50" height="50"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/273/PNG/256/icon_sql_256_30046.png" alt="sql" width="50" height="50"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/r_project_official_logo_icon_170811.png" alt="r" width="55" height="55"/>
+  </div>
+</div>
+  
 
 ###  🖥 Frameworks y Librerías
 <p align="left"> 
