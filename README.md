@@ -85,7 +85,7 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
   <div>
-    &nbsp;&nbsp;GIT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Webpack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figma&nbsp;&nbsp;&nbsp;VisualStudioCode&nbsp;&nbsp;&nbsp;Postman
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GIT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Webpack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisualStudioCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postman
   </div>
 
   <!-- Logos -->
