@@ -81,21 +81,28 @@
 
 
 ###  ⌨ Herramientas y Tecnologías
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/3c6b5b19-2345-40cd-9522-a53ede5a5193" alt="git" width="56" height="56"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github" width="80" height="80"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="web" width="56" height="56"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="60" height="60"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="60" height="60"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="60" height="60"/></a>
-  &emsp; 
-</p>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+  <!-- Nombres -->
+  <div>
+    GIT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BootStrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sass&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;React
+  </div>
+
+  <!-- Logos -->
+  <div style="display: flex; justify-content: space-around; width: 100%">
+    <img src="https://github.com/user-attachments/assets/3c6b5b19-2345-40cd-9522-a53ede5a5193" alt="git" width="56" height="56"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/2157/PNG/512/github_git_hub_logo_icon_132878.png" alt="github" width="80" height="80"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_original_logo_icon_146300.png" alt="web" width="56" height="56"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="60" height="60"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="60" height="60"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="60" height="60"/>
+  </div>
+</div>
 
 <hr>
 
