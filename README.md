@@ -85,7 +85,7 @@
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
   <!-- Nombres -->
   <div>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GIT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Webpack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisualStudioCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postman
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GIT&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GitHub&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Webpack&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Figma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;VisualStudioCode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postman
   </div>
 
   <!-- Logos -->
@@ -98,8 +98,11 @@
     &emsp;
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/figma_macos_bigsur_icon_190183.png" alt="figma" width="60" height="60"/>
     &emsp;
+   &nbsp;
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_alt_macos_bigsur_icon_189953.png" alt="visual" width="60" height="60"/>
     &emsp;
+   &nbsp;
+   &nbsp;
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="postman" width="60" height="60"/>
   </div>
 </div>
