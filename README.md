@@ -241,3 +241,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ3nlvG2GWFKMPj7LLxPgUd1wlL5nSKEuDg&s" alt="Express" width="50" height="50"/>
   </div>
 </div>
+
+<footer style="text-align: center; margin-top: 30px; font-size: 14px;">
+    <p>Desarrollado por Jose Ruiz</p>
+  </footer>
