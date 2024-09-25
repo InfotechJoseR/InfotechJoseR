@@ -14,11 +14,21 @@
 
 ## <picture><img src="https://github.com/user-attachments/assets/1cf1d7a2-0977-4a6f-b98f-1671280b55db" width="80px" style="vertical-align: middle;"></picture> <span style="font-weight: bold; color: #FF5733; text-shadow: 2px 2px 4px #000000;">**About me (Sobre mi)**</span>
 
-<h4 align="center">I am José, a passionate technology and innovation professional with experience in developing technology projects with social and educational impact. My current focus is on strengthening my skills in data analysis. I have led projects that include the creation of mobile applications to facilitate the translation from Spanish to Tsafiki, a native language, from the Province of Santo Domingo de los Tsachilas, Ecuador. In addition to contributing to the development of Machine Learning models to predict student attrition at my university. My commitment to excellence is reflected in awards obtained in science and technology congresses. I am always looking for challenges that allow me to apply my technical knowledge to generate a positive impact on society.</h4>
+<div style="font-family: Arial, sans-serif; line-height: 1.6;">
+  <h2>🎯 Ingeniero en Tecnologías de la Información</h2>
+  <p>Apasionado por crear interfaces frontend llamativas, combinar diseño creativo y análisis de datos para ofrecer soluciones tecnológicas impactantes y funcionales. Mi objetivo es fusionar la estética visual con la optimización funcional, entregando productos que destacan tanto por su diseño como por su capacidad de procesamiento de información.</p>
+  
+  <h3>✨ Lo que ofrezco:</h3>
+  <p>Mi experiencia en desarrollo frontend se enfoca en crear interfaces visualmente atractivas y funcionales, mientras que mi conocimiento en análisis de datos me permite optimizar la experiencia del usuario y mejorar la toma de decisiones. Además, mi creatividad en diseño gráfico garantiza que las interfaces no solo sean funcionales, sino que también tengan un impacto visual fuerte y coherente con la identidad de la marca.</p>
 
-<br>
+  <h3>💻 Lo que me motiva:</h3>
+  <ul>
+    <li><strong>Desarrollo Frontend:</strong> Disfruto construir interfaces atractivas y amigables para el usuario, cuidando cada detalle visual y funcional para garantizar una excelente experiencia de usuario.</li>
+    <li><strong>Diseño Gráfico:</strong> El diseño es mi pasión, me encanta transformar ideas en realidades visuales que comunican de manera efectiva y destacan por su creatividad.</li>
+    <li><strong>Análisis de Datos:</strong> Me motiva descubrir insights clave a partir de los datos, utilizando herramientas analíticas que permiten una toma de decisiones informada y estratégica.</li>
+  </ul>
+</div>
 
-<h4 align="center">Soy José, un apasionado profesional de la tecnología y la innovación con experiencia en el desarrollo de proyectos tecnológicos con impacto social y educativo. Mi enfoque actual se centra en fortalecer mis habilidades en análisis de datos. He liderado proyectos que incluyen la creación de aplicaciones móviles para facilitar la traducción de español a Tsafiki, un idioma nativo, de la Provincia de Santo Domingo de los Tsachilas, Ecuador. Además de contribuir al desarrollo de modelos de Machine Learning para predecir la deserción estudiantil de mi universidad. Mi compromiso con la excelencia se refleja en premios obtenidos en congresos de ciencias y tecnología. Siempre estoy en busca de desafíos que me permitan aplicar mis conocimientos técnicos para generar un impacto positivo en la sociedad.</h4>
 
 <!-- CONTACTAME-->
 [![-----------------------------------------------------]( https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)   
