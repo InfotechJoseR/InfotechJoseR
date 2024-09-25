@@ -137,26 +137,30 @@
   
 
 ###  🖥 Frameworks y Librerías
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" alt="numpy" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="met" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tensorflow_logo_icon_168671.png" alt="tenso" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="opencv" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2NR1k6z-BOxtMrMoFocQTG_UrHyM4RTJ3Q&s" alt="open3D" width="50" height="50"/></a>
-  &emsp;
-  
-</p>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+ 
+  <!-- Nombres -->
+  <div>
+    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;&nbsp;Scikit Learn&nbsp;&nbsp;&nbsp;Keras&nbsp;&nbsp;&nbsp;OpenCV&nbsp;&nbsp;&nbsp;Open3D
+  </div>
+
+  <!-- Logos -->
+  <div style="display: flex; justify-content: space-around; width: 100%">
+    <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" alt="numpy" width="50" height="50"/>
+    &emsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="met" width="50" height="50"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/>
+    &emsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="keras" width="50" height="50"/>
+    &emsp;
+   <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="opencv" width="50" height="50"/>
+    &emsp;
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2NR1k6z-BOxtMrMoFocQTG_UrHyM4RTJ3Q&s" alt="open3D" width="50" height="50"/>
+  </div>
+</div>
 
 ###  ⌨ Herramientas y Tecnologías
 <p align="left"> 
