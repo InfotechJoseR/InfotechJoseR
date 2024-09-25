@@ -203,16 +203,22 @@
 ## 👉 Diseño gráfico y creatividad
 
 ### 🖱 Herramientas de diseño
-<p align="left"> 
-  &emsp; 
-  <a> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="ps" width="65" height="65"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="canva" width="50" height="50"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="ph" width="55" height="55"/></a>
-  &emsp;
-  <a> <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="st" width="65" height="65"/></a>
-  &emsp;
-  <a> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ3nlvG2GWFKMPj7LLxPgUd1wlL5nSKEuDg&s" alt="express" width="53" height="53"/></a>
-  &emsp;
-</p>
+
+<div style="display: flex; flex-direction: column; align-items: flex-start;">
+ 
+  <!-- Nombres -->
+  <div>
+ &nbsp;Adobe Photoshop&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Canva&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Photopea&nbsp;&nbsp;Adobde Stock&nbsp;&nbsp;
+  </div>
+
+  <!-- Logos -->
+  <div style="display: flex; justify-content: space-around; width: 100%">
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="photoshop" width="80" height="80"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="canva" width="90" height="70"/>
+    <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="photopea" width="90" height="80"/>
+    <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="stock" width="90" height="80"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJ3nlvG2GWFKMPj7LLxPgUd1wlL5nSKEuDg&s" alt="Express" width="90" height="80"/>
+  </div>
+</div>
