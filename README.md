@@ -174,7 +174,7 @@
   <div style="display: flex; justify-content: space-around; width: 100%">
     <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="scrapy" width="50" height="50"/>
     &emsp;
-    <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="beautiful" width="80" height="50"/>
+    <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="beautiful" width="90" height="50"/>
     &emsp;
   </div>
 </div>
