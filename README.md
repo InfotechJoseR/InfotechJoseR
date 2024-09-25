@@ -194,7 +194,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="python" width="80" height="80"/>
     &emsp;
     <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="sql" width="100" height="75"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="r" width="100" height="90"/>
+    <img src="https://i.namu.wiki/i/zKS7LsOc2A4ZZR64XnAm8S88HbszoXQPH_T7CY3KFwfwJtemXQwc4Nu3tx5GavmyG-wmgcKs_PfqYbY8xg3iow.webp" alt="r" width="100" height="90"/>
   </div>
 </div>
 
