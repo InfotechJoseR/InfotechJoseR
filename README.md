@@ -145,12 +145,6 @@
     &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;Scikit Learn&nbsp;&nbsp;TensorFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenCV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open3D
   </div>
 
-  <br>
-
-  <div>
-    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy
-  </div>
-
   <!-- Logos -->
   <div style="display: flex; justify-content: space-around; width: 100%">
     <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/>
@@ -172,7 +166,11 @@
   </div>
 
   <br>
-
+  
+   <div>
+    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy
+  </div>
+  
   <div style="display: flex; justify-content: space-around; width: 100%">
     <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/>
     &emsp;
