@@ -242,6 +242,8 @@
   </div>
 </div>
 
+<br>
+
 <footer style="text-align: center; margin-top: 30px; font-size: 14px;">
     <p>Desarrollado por Jose Ruiz</p>
   </footer>
