@@ -190,17 +190,15 @@
 
   <!-- Logos -->
   <div style="display: flex; justify-content: space-around; width: 100%">
+    &emsp;
+    &emsp;
     <img src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" alt="python" width="80" height="80"/>
     &emsp;
     &emsp;
+    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="sql" width="100" height="75"/>
     &emsp;
     &emsp;
-    <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" alt="sql" width="80" height="80"/>
-    &emsp;
-    &emsp;
-    &emsp;
-    &emsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="r" width="90" height="70"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/1280px-Google_Colaboratory_SVG_Logo.svg.png" alt="r" width="100" height="90"/>
   </div>
 </div>
 
