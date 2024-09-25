@@ -168,13 +168,13 @@
   <br>
   
    <div>
-    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy
+    &nbsp;Scrapy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BeautifulSoup
   </div>
   
   <div style="display: flex; justify-content: space-around; width: 100%">
-    <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/>
+    <img src="https://scrapeops.io/img/sdk-icons/scrapy-logo.png" alt="pandas" width="50" height="50"/>
     &emsp;
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" alt="numpy" width="50" height="50"/>
+    <img src="https://datascientest.com/en/files/2024/01/beautiful-soup.png" alt="numpy" width="50" height="50"/>
     &emsp;
   </div>
 </div>
