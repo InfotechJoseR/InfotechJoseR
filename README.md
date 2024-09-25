@@ -142,7 +142,7 @@
  
   <!-- Nombres -->
   <div>
-    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;&nbsp;Scikit Learn&nbsp;&nbsp;&nbsp;TensorFlow&nbsp;&nbsp;&nbsp;Keras&nbsp;&nbsp;&nbsp;OpenCV&nbsp;&nbsp;&nbsp;Open3D
+    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;Scikit Learn&nbsp;&nbsp;TensorFlow&nbsp;&nbsp;Keras&nbsp;&nbsp;OpenCV&nbsp;&nbsp;Open3D
   </div>
 
   <!-- Logos -->
