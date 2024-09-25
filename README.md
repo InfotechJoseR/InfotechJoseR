@@ -142,7 +142,13 @@
  
   <!-- Nombres -->
   <div>
-    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;Scikit Learn&nbsp;&nbsp;TensorFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenCV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open3D
+    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;&nbsp;Scikit Learn&nbsp;&nbsp;TensorFlow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Keras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;OpenCV&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Open3D
+  </div>
+
+  <br>
+
+  <div>
+    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy
   </div>
 
   <!-- Logos -->
@@ -163,6 +169,15 @@
    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/opencv_logo_icon_170887.png" alt="opencv" width="50" height="50"/>
     &emsp;
    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo2NR1k6z-BOxtMrMoFocQTG_UrHyM4RTJ3Q&s" alt="open3D" width="50" height="50"/>
+  </div>
+
+  <br>
+
+  <div style="display: flex; justify-content: space-around; width: 100%">
+    <img src="https://github.com/user-attachments/assets/7a4876b7-c1e7-4c26-b96d-2ce1085fd050" alt="pandas" width="50" height="50"/>
+    &emsp;
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" alt="numpy" width="50" height="50"/>
+    &emsp;
   </div>
 </div>
 
