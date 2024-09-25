@@ -142,7 +142,7 @@
  
   <!-- Nombres -->
   <div>
-    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;Scikit Learn&nbsp;&nbsp;TensorFlow&nbsp;&nbsp;Keras&nbsp;&nbsp;OpenCV&nbsp;&nbsp;Open3D
+    &nbsp;Pandas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Numpy&nbsp;&nbsp;&nbsp;&nbsp;Matplotlib&nbsp;Scikit Learn&nbsp;TensorFlow&nbsp;&nbsp;Keras&nbsp;&nbsp;OpenCV&nbsp;&nbsp;Open3D
   </div>
 
   <!-- Logos -->
@@ -152,6 +152,7 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/numpy_logo_icon_168071.png" alt="numpy" width="50" height="50"/>
     &emsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" alt="met" width="50" height="50"/>
+   &emsp;
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1024px-Scikit_learn_logo_small.svg.png" alt="skit" width="50" height="50"/>
    &emsp;
    <img src="https://miro.medium.com/v2/resize:fit:1000/1*Pgx0qBpKHFehtZj1K_yXCw.png" alt="Tenso" width="50" height="50"/>
