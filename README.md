@@ -214,15 +214,14 @@
   <!-- Logos -->
   <div style="display: flex; justify-content: space-around; width: 100%">
     &emsp;
+    &nbsp;
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="photoshop" width="50" height="50"/>
     &emsp;
     &emsp;
     &emsp;
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/canva_logo_icon_168460.png" alt="canva" width="50" height="50"/>
     &emsp;
-    &emsp;
     <img src="https://cdn.icon-icons.com/icons2/3914/PNG/512/photopea_logo_icon_248862.png" alt="photopea" width="50" height="50"/>
-    &emsp;
     &emsp;
     <img src="https://cdn.icon-icons.com/icons2/3070/PNG/512/stock_file_software_computer_adobe_stock_icon_191048.png" alt="stock" width="50" height="50"/>
     &emsp;
