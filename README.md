@@ -212,6 +212,9 @@
 
 ## 👉 Diseño gráfico y creatividad
 
+<picture> <img align="right" src="https://b1763018.smushcdn.com/1763018/wp-content/uploads/2018/01/diseno-grafico-mitos-disenador-grafico-working.gif?lossy=1&strip=1&webp=1" width = 250px></picture>
+
+
 ### 🖱 Herramientas de diseño
 
 <div style="display: flex; flex-direction: column; align-items: flex-start;">
